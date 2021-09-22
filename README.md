@@ -27,7 +27,18 @@
 
 https://user-images.githubusercontent.com/73402453/134282604-92ce70e4-e132-4e9c-95a6-4120dc317fad.mp4
  
+  # Correcciónes
+
+  Para obtener emojis y poner los tuyos debes sacar la id del emoji de está manera.
   
+  ```
+  \:emoji cualquiera:
+  ```
+
+  ```
+  \🥀
+  ```
+
   # Unete a la comunidad
   
   Nuestro servidor apenas va comenzando y nos gustaria que nos apoyaran o se unan para asi crecer de momento el proyecto esta detenido ya que se esta actualizando a la nueva version de discord y tenemos unos cuantos problemas.
