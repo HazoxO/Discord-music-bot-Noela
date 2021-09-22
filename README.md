@@ -25,8 +25,11 @@
   # .env en replit
  
 
-https://user-images.githubusercontent.com/73402453/134282604-92ce70e4-e132-4e9c-95a6-4120dc317fad.mp4
- 
+
+https://user-images.githubusercontent.com/73402453/134416062-2f7be320-3c51-4fd3-990b-417c1617d149.mp4
+
+
+  
   # Correcciónes
 
   Para obtener emojis y poner los tuyos debes sacar la id del emoji de está manera.
