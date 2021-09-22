@@ -12,7 +12,7 @@
   <a href="https://discordapp.com/invite/7ZsYdpuF">
     <img src="https://discordapp.com/api/guilds/845459731308347442/widget.png?style=shield" alt="Discord Server">
   </a>
-  <a href="https://github.com/Rapptz/discord.js/">
+  <a href="https://github.com/discordjs/discord.js">
      <img src="https://img.shields.io/badge/discord-js-blue.svg" alt="discord.js">
   </a>
 
