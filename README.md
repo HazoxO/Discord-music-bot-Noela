@@ -22,7 +22,13 @@
   [![Run on Repl.it](https://repl.it/badge/github/HazoxO/Noela)](https://repl.it/github/HazoxO/Noela)
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HazoxO/Noela)
 
+  # .env en replit
+ 
+ <a <iframe width="560" height="315" src="https://www.youtube.com/embed/CmjsMmbao2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   </a>
+  
   # Unete a la comunidad
   
   Nuestro servidor apenas va comenzando y nos gustaria que nos apoyaran o se unan para asi crecer de momento el proyecto esta detenido ya que se esta actualizando a la nueva version de discord y tenemos unos cuantos problemas.
   https://discord.gg/GwwU56X3Sp
+
+ 
