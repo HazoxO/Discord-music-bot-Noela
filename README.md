@@ -9,7 +9,7 @@
 <h4 align="center">Multifuncionalidad pero enfocado en la musica.</h4>
 
 <p align="center">
-  <a href="https://discord.gg/GwwU56X3Sp">
+  <a href="https://discordapp.com/invite/7ZsYdpuF">
     <img src="https://discordapp.com/api/guilds/845459731308347442/widget.png?style=shield" alt="Discord Server">
   </a>
   <a href="https://github.com/Rapptz/discord.py/">
