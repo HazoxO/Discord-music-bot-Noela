@@ -24,7 +24,7 @@
 
   # .env en replit
  
- <a <iframe width="560" height="315" src="https://www.youtube.com/embed/CmjsMmbao2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   </a>
+ [![Watch the video](https://i9.ytimg.com/vi_webp/p3XwcDrS0_g/hqdefault.webp?v=6126df95&sqp=CJjZqooG&rs=AOn4CLDw7ax40rESgfdgRbxj9MRQUFXlhw)](https://youtu.be/CmjsMmbao2E)
   
   # Unete a la comunidad
   
