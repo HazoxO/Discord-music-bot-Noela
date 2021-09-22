@@ -24,7 +24,9 @@
 
   # .env en replit
  
- [![Watch the video](https://i9.ytimg.com/vi_webp/p3XwcDrS0_g/hqdefault.webp?v=6126df95&sqp=CJjZqooG&rs=AOn4CLDw7ax40rESgfdgRbxj9MRQUFXlhw)](https://youtu.be/CmjsMmbao2E)
+
+https://user-images.githubusercontent.com/73402453/134282604-92ce70e4-e132-4e9c-95a6-4120dc317fad.mp4
+ 
   
   # Unete a la comunidad
   
